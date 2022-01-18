@@ -1,2 +1,2 @@
 # LearningReact
-Test to see if this will download
+This repo is intended to be used to sharpen my react skills
